@@ -1,0 +1,6 @@
+{
+    "title": "Push Notification Subscrption Basics",
+    "repo": "ringcentral-tutorials/subscription-basics-nodejs-demo",
+    "description": "Learn to use RingCentral event data with subscriptions instead of long-polling.",
+    "heroku": true
+}
